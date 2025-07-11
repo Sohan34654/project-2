@@ -1,0 +1,216 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+body{
+    background-color:hotpink;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width:1000px;
+    background-color:purple;
+    margin:0 auto;
+    padding:20px;
+
+
+
+
+.profile-image{
+    width:100px;
+    height:120px;
+    border:3px solid black;
+    border-radius: 50%;
+    float:left;
+   
+}
+.header-bio{
+    float:left;
+    padding:30px;
+   
+  
+}
+h1,h2{
+    color:#11999e;
+}
+.header-contact{
+    float:right;
+    padding:30px;
+}
+.header-contact a{
+    text-decoration: none;
+    color:teal;
+    
+
+
+}
+.header-contact a:hover{
+    color:hotpink;
+    text-decoration: underline;
+
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border: 3px solid black;
+    margin: 20px auto;
+    width:100%;
+    border-bottom: none;
+}
+#personal-section{
+
+}
+
+
+
+
+
+.left-div{
+    width:30%;
+    float:left;
+  
+
+
+}
+.right-div{
+    width:70%;
+    float:right;
+    
+
+}
+#personal-section{
+
+}
+.content{
+
+}
+.left-div{
+    width:30%;
+    float:left;
+
+
+}
+.right-div{
+    width:70%;
+    float:right;
+
+}
+.common-hr{
+    border:solid black 1px;
+    border-radius: none;
+    width:100%;
+    margin:20px auto;
+}
+.sohan:hover{
+    color:aquamarine;
+}
+#key-skills{
+
+}
+.key-skills2{
+    width:30%;
+    color:aquamarine;
+    float:left;
+
+
+
+}
+.key-skills3{
+    width:70%;
+    color:solid black;
+    float:right;
+
+}
+.color:hover{
+    color:aqua;
+    text-decoration:underline;
+
+}
+#educate{
+
+}
+.educate1{
+
+}
+.educate2{
+    width:30%;
+    float:left;
+
+}
+.educate3{
+    width:70%;
+    float:right;
+
+}
+.onamika:hover{
+    color:aquamarine;
+    text-decoration:underline;
+}
+.messi1{
+
+}
+.messi2{
+    width:30%;
+    float:left;
+
+}
+.messi3{
+    width:70%;
+    float:right;
+    
+
+}
+.dr:hover{
+    color:aqua;
+    text-decoration: solid;
+}
+.akter{
+    background-color: black;
+    text-align: center;
+    padding:10px;
+
+  
+   
+   
+
+
+}
+.akter a{
+    color:aliceblue;
+    text-decoration:underline;
+    margin:20px;
+    text-align: center;
+
+}
+.akter p{
+    color:blue;
+    margin-top: 20px;
+    font-size: 30px;
+
+
+
+}
+.img{
+    width:50%;
+    border-radius: 20px;
+    border:20px solid black;
+    
+    
+    height:250px;
+
+
+
+}
+.moment{
+    color:#11999e;
+    font-size: 20px;
+   
+   
+
+    
+
+   
+}
+
+
